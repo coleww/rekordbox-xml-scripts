@@ -3,6 +3,8 @@
 
 scripts for doing fun stuff with rekordbox. some of these just output information that you can use, some create playlists or modify tracks that can then be re-imported to your collection.
 
+originally forked from https://github.com/diracdeltas/rekordbox-scripts
+
 ## prereqs
 
 * [rekordbox](https://rekordbox.com/en/)
